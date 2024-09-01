@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-one{
+    margin: 5rem 1rem 5rem 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-one{
+    width: 22rem;
+}
+
+.left-one h1{
+    padding-bottom: 2rem;
+}
+.left-one p{
+    padding-bottom: 2rem;
+}
+
+.icons{
+    margin: 3rem 0 3rem 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.icons-list img{
+    width: 8rem;
+}
+
+.container-two{
+    margin: 4rem 2rem 4rem 8rem;
+}
+
+.container-two .bolded{
+    font-size: 1.5rem;
+    font-weight: 700;
+    background: #B9FF66;
+
+}
+
+.container-two p{
+    width: 15rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.container-three{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 4rem 1rem 4rem 1rem;
+}
+
+.card{
+    padding: 4rem;
+   
+}
+
+.container-four{
+    margin: 4rem 3rem 4rem 3rem;
+}
+
+.form{
+    margin: 5rem;
+}
+
+.logo-img{
+    background-color: black;
+}
+
+.navlist{
+    display: flex;
+    justify-content: space-around;
+}
